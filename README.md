@@ -1,4 +1,4 @@
-# Haberman-Survival-Dattaset-EDA
+# Haberman-Survival-Dataset-EDA
 
 Performed uni-variate analysis (histogram, pdf, cdf, box-plots, violin plots) and multi-variate analysis (pair-plots, contour plots and scatter plots) on all features.
 
